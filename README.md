@@ -1,5 +1,9 @@
 # Linux Crash Analyzer
 
+## System Crash Analysis Demonstration
+
+![Linux Crash Analyzer Running](crash_screenshot.png)
+
 Linux-based crash and log analysis tool focused on system diagnostics and troubleshooting.
 
 ## Overview
